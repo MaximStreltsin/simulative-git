@@ -1,2 +1,2 @@
 # Simulative Git
-Hello Githib
+Hello Github
